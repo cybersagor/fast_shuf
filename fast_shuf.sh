@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # ============================================================
 #  fast_shuf.sh — High-Performance Large File Shuffler
-#  Author  : Built for Professor (Top-100 HackerOne Researcher)
+#  Author  : Professor the Hunter (Top-100 HackerOne Researcher)
 #  Target  : Ryzen 7700 (8C/16T), 32GB RAM, NVMe
 #  Deps    : bash, split, shuf, wc, awk, sort, xargs, cat, du
 #            (all GNU coreutils — zero external tools)
