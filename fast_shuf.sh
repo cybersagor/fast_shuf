@@ -22,7 +22,7 @@ THREADS=$(nproc)          # auto-detect all logical cores
 MANUAL_SPLIT_LINES=0      # 0 = auto-calculate
 KEEP_TMP=false
 DRY_RUN=false
-SEED=""                   # optional: --seed N for reproducible shuffle
+SEED=""
 
 # ─── Usage ─────────────────────────────────────────────────
 usage() {
